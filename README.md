@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
 
-# Sign-Language-detection
+# Sign Language Interpreter
 
-## Explanatory Video for Deepfake Face Detection
+## Explanatory Video for Sign Language Interpreter
 https://github.com/user-attachments/assets/7c556350-2f91-42f4-89a8-5639654d05ed
 
 ## About The Project
