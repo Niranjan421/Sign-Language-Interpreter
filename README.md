@@ -7,7 +7,7 @@
 https://github.com/user-attachments/assets/7c556350-2f91-42f4-89a8-5639654d05ed
 
 ## About The Project
-The Sign Language Detection project aims to facilitate communication for deaf and mute individuals by recognizing sign language gestures using a custom dataset with six classes. The application utilizes a deep learning model, potentially leveraging transfer learning with pre-trained CNNs, to accurately identify signs from webcam video input. It features an interactive web interface built with Streamlit, allowing users to practice signing in real-time. The project emphasizes user engagement, providing a home section with project information and a dedicated sign detection area. Future plans include expanding the dataset and enhancing model accuracy for broader sign language recognition.
+The Sign Language Interpreter project aims to facilitate communication for deaf and mute individuals by recognizing sign language gestures using a custom dataset with six classes. The application utilizes a deep learning model, potentially leveraging transfer learning with pre-trained CNNs, to accurately identify signs from webcam video input. It features an interactive web interface built with Streamlit, allowing users to practice signing in real-time. The project emphasizes user engagement, providing a home section with project information and a dedicated sign detection area. Future plans include expanding the dataset and enhancing model accuracy for broader sign language recognition.
 
 Key Features:
 * Real-time Sign Recognition: The application captures video from the user's webcam to detect and interpret sign language gestures in real time.
