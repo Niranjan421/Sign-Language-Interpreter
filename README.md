@@ -9,7 +9,7 @@ https://github.com/user-attachments/assets/7c556350-2f91-42f4-89a8-5639654d05ed
 
 ## Index: 
 - [About The Project](#About-The-Project)
-- [Key Features:](#Key-Features:)
+- [Key Features:](#Key-Features)
 - [Deployment](#Deployment)
 
 
